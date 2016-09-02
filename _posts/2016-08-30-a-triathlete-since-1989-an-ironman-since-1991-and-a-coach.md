@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T18:08:02.734Z'
+datePublished: '2016-08-30T18:59:59.327Z'
 sourcePath: _posts/2016-08-30-a-triathlete-since-1989-an-ironman-since-1991-and-a-coach.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T18:08:02.368Z'
+dateModified: '2016-08-30T18:59:58.920Z'
 title: ''
 publisher: {}
 description: >-
