@@ -16,5 +16,8 @@ navigation:
   - name: Welcome
     id: c691cc7b-7247-4617-b132-b6df80fa0a80
     type: content
+  - name: About
+    id: 27eeb2c9-e5a0-4a57-8cfc-25685bbda641
+    type: content
 title: Steve Lumley Triathlon Coaching
 description: 'Helping you to achieve your potential '
