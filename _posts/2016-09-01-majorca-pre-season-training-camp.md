@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-01T16:52:01.041Z'
+datePublished: '2016-09-01T16:52:39.008Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T16:49:02.504Z'
+dateModified: '2016-09-01T16:52:38.875Z'
 title: Majorca Pre season Training camp​
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-09-01-majorca-pre-season-training-camp.md
+starred: false
 _type: Blurb
 
 ---
