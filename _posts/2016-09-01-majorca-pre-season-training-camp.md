@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-01T17:03:50.607Z'
+datePublished: '2016-09-01T17:07:21.799Z'
 sourcePath: _posts/2016-09-01-majorca-pre-season-training-camp.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T17:02:35.862Z'
-title: Majorca Pre season Training camp ​
+dateModified: '2016-09-01T17:07:21.631Z'
+title: Majorca Pre season Training camp​
 publisher: {}
 description: ''
 starred: false
