@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T17:16:53.719Z'
+datePublished: '2016-09-01T17:33:59.930Z'
 sourcePath: _posts/2016-08-30-individual-coaching-and-support-to-reach-your-goals.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T17:16:52.939Z'
+dateModified: '2016-09-01T17:33:59.137Z'
 title: Coaching & support to reach your goals
 publisher: {}
 description: >-
@@ -20,7 +20,7 @@ _type: Blurb
 
 ---
 ## Coaching & support to reach your goals
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/53bc3a5deb2de8ae3e1e599768c1a211/croprotate.jpg?cropheight=2591&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcd6402d5-e0a3-4274-b778-c452a9f782d4.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f37bb05b9e43c06dd539fe2b8d6699667b42634.jpg)
 
 ## Individual ongoing, online coaching with Steve
 
@@ -48,15 +48,14 @@ While there is no minimum period, you will need to commit to 8 months+ in order 
 
 ## Majorca Pre season Training camp  
 ​
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11f16a03b96024999c50cf1cdc143f49cd151933.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92b98203-16aa-4432-a2ad-b9dd38a24b8d.jpg)
 
-* Steve runs an annual spring training camp in the triathletes training paradise of Majorca, Spain. The 2017 Majorca camp will take place at the end of April.
+Steve runs an annual spring training camp in the triathletes training paradise of Majorca, Spain. The 2017 Majorca camp will take place at the end of April.
 
 ## Consulting
 
-Consulting   
 Perhaps you are an athlete who doesn't want or need a personal coach. From time to time however, taking advantage of Steve's knowledge and experience would assist you, with some input or discussion about your training. For such athletes looking for additional support he offers a consultation service .   
-Consultations are available in person, or by Skype or phone depending on location on a variety of topics including: 
+Consultations are available in person, or by Skype or phone depending on location on a variety of topics including:
 
 * Programme Planning
 * Performance optimization & race strategy planning
