@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-30T19:26:18.367Z'
+datePublished: '2016-09-01T17:05:13.970Z'
 sourcePath: _posts/2016-08-30-individual-coaching-and-support-to-reach-your-goals.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T19:26:17.878Z'
+dateModified: '2016-09-01T17:05:13.301Z'
 title: Coaching & support to reach your goals
 publisher: {}
 description: >-
@@ -13,10 +13,10 @@ description: >-
   experienced Performance and Development coach Steve offers online coaching
   support to athletes worldwide and has clients from the UK to Australia.
   Providing the individual coaching, guidance, motivation & support that you
-  need for success. ​
+  need for success.​
 starred: false
 url: individual-coaching-and-support-to-reach-your-goals/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Coaching & support to reach your goals
