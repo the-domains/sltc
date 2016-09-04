@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T17:05:13.970Z'
+datePublished: '2016-09-01T17:16:53.719Z'
 sourcePath: _posts/2016-08-30-individual-coaching-and-support-to-reach-your-goals.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T17:05:13.301Z'
+dateModified: '2016-09-01T17:16:52.939Z'
 title: Coaching & support to reach your goals
 publisher: {}
 description: >-
@@ -13,14 +13,14 @@ description: >-
   experienced Performance and Development coach Steve offers online coaching
   support to athletes worldwide and has clients from the UK to Australia.
   Providing the individual coaching, guidance, motivation & support that you
-  need for success.​
+  need for success. ​
 starred: false
 url: individual-coaching-and-support-to-reach-your-goals/index.html
 _type: Blurb
 
 ---
 ## Coaching & support to reach your goals
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c3241d0c3167a78970fa3e8c734009277ac3b3d.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/53bc3a5deb2de8ae3e1e599768c1a211/croprotate.jpg?cropheight=2591&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcd6402d5-e0a3-4274-b778-c452a9f782d4.jpg&x=0&y=0)
 
 ## Individual ongoing, online coaching with Steve
 
@@ -46,7 +46,26 @@ While there is no minimum period, you will need to commit to 8 months+ in order 
 
 **[Download athlete questionnaire][1]**
 
-## ​
+## Majorca Pre season Training camp  
+​
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/11f16a03b96024999c50cf1cdc143f49cd151933.jpg)
+
+* Steve runs an annual spring training camp in the triathletes training paradise of Majorca, Spain. The 2017 Majorca camp will take place at the end of April.
+
+## Consulting
+
+Consulting   
+Perhaps you are an athlete who doesn't want or need a personal coach. From time to time however, taking advantage of Steve's knowledge and experience would assist you, with some input or discussion about your training. For such athletes looking for additional support he offers a consultation service .   
+Consultations are available in person, or by Skype or phone depending on location on a variety of topics including: 
+
+* Programme Planning
+* Performance optimization & race strategy planning
+* Post-race analysis
+* Triathlon training, programming & time management
+
+Purchase your consult [here][2], **[Email us back your questions][0].** We will contact you to arrange your first consultation.  
+Please mail your questions preferably at least 3 days prior to your consult, .
 
 [0]: mailto:tricoach.lum@gmail.com
 [1]: http://www.stevelumleytriathlon.com/uploads/4/5/7/5/45751831/athlete_questionnaire.doc
+[2]: http://www.stevelumleytriathlon.com/consultation.html
