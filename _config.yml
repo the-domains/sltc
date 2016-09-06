@@ -1,16 +1,16 @@
-typography_spectrum: 0.20307667995803058
+layout_spectrum: 0.3439360598567873
+typography_spectrum: 0.537734208162874
 color:
-  brandStrength: 0.4180073579773307
-  lightness: 0.5826704767532647
-  saturation: 0.41818424011580646
-  rhythmicContrast: 0.9884802049491554
+  brandStrength: 0.20568216149695218
+  lightness: 0.43605639855377376
+  saturation: 0.04556567966938019
+  rhythmicContrast: 0.6162478851620108
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.6350649136584252
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
 name: SLTC
 navigation:
   - name: Welcome
