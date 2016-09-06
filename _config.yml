@@ -19,11 +19,11 @@ navigation:
   - name: About
     id: 27eeb2c9-e5a0-4a57-8cfc-25685bbda641
     type: content
-  - name: Triathlon Training Plans
-    id: 0562dd04-67bf-42c1-b55a-190b0ad5179d
-    type: content
   - name: 'Coaching & support '
     id: 9255c9a8-bef8-4939-b647-f90683476223
+    type: content
+  - name: Triathlon Training Plans
+    id: 0562dd04-67bf-42c1-b55a-190b0ad5179d
     type: content
 title: Steve Lumley Triathlon Coaching
 description: 'Helping you to achieve your potential '
