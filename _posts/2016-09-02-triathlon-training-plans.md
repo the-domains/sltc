@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T15:24:35.962Z'
+datePublished: '2016-09-02T15:34:19.338Z'
 sourcePath: _posts/2016-09-02-triathlon-training-plans.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T15:24:27.624Z'
+dateModified: '2016-09-02T15:34:18.878Z'
 title: Triathlon Training Plans
 publisher: {}
 description: >-
@@ -14,17 +14,17 @@ description: >-
   triathlon distances, including 36 Iron man distance races and 5 Hawaii
   qualifications himself. He has coached athletes to hundreds of full and 70.3IM
   finishes. These have ranged from novice to elite and include many Hawaii world
-  championship qualifications. If you are looking to take the guesswork out of
+  championship qualifications.If you are looking to take the guesswork out of
   your training and follow a structured training programme, but not yet ready to
   take the leap and get a coach then then these are for you. Proven to work by
   hundreds of athletes who have used them, & from only us$29.95 for a 12 week
-  programme to $49.95 for a 30 weeks plan they represent superb value. ​ Plans
-  are delivered via free athlete account with Training Peaks  ​Various plans are
+  programme to $49.95 for a 30 weeks plan they represent superb value.​Plans are
+  delivered via free athlete account with Training Peaks ​Various plans are
   available according to race distance and athlete ability & experience. Click
   on the links for further information and details. Choose your plan and plan
   duration (plans can be set to start or end on any date so can be used more
   than once). Sign up for your Training Peaks account and pay a one off fee for
-  the plan via TrainingPeaks.  Download the plan directly into your account and
+  the plan via TrainingPeaks. Download the plan directly into your account and
   don't forget to also download the plan guide...
 starred: false
 url: triathlon-training-plans/index.html
@@ -50,20 +50,24 @@ or email Steve at: t[ricoach.lum@gmail.com][1]
 **[Contact Steve][2]**
 
 ## ​[IRONMAN(r) Distance Triathlons][3]
-
-**[Training Plan supporting documents][4]**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9576a5b3-fa64-464e-bf69-8143f1fe4ecd.jpg)
 
 ​
 
-## [70.3 Distance Triathlons][5]
+## [70.3 Distance Triathlons][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3819cac-f3e4-472b-aeaf-3005ccebefcf.jpg)
 
-## ​[Olympic Distance Triathlons][6]
+## ​[Olympic Distance Triathlons][5]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1a1bd40-640c-4995-a737-fefb87341e81.jpg)
 
-## [Sprint Distance Triathlons][7]
+## [Sprint Distance Triathlons][6]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc54ca2-634c-4b7a-9ccd-ef6572a5c4b6.jpg)
 
-## [Youth Triathlon][8]
+## [Youth Triathlon][7]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea478e39-4783-4742-adc5-039972a53838.jpg)
 
-## [Xterra & Off road Triathlon][9]
+## [Xterra & Off road Triathlon][8]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95a66f6f-680d-4f49-9f1d-b69e283c8e23.jpg)
 
 ## Training Plan Testimonials
 
@@ -84,9 +88,8 @@ _"I just finished using your "Olympic Distance Triathlon: 'Competitors '30 week 
 [1]: mailto:tricoach.lum@gmail.com
 [2]: http://www.stevelumleytriathlon.com/contact.html
 [3]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%20Ironman%20%20plans
-[4]: http://www.stevelumleytriathlon.com/uploads/4/5/7/5/45751831/training_plan_zones___swim_drills_explanations.docx
-[5]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%2070.3%20plans
-[6]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%20Olympic%20Distance%20plans
-[7]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%20Sprint%20Distance%20Novice
-[8]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Youth%20and%20Junior%20Plans
-[9]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%20Xterra%20&%20Cross%20Tri%20Plans
+[4]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%2070.3%20plans
+[5]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%20Olympic%20Distance%20plans
+[6]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%20Sprint%20Distance%20Novice
+[7]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Youth%20and%20Junior%20Plans
+[8]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%20Xterra%20&%20Cross%20Tri%20Plans
