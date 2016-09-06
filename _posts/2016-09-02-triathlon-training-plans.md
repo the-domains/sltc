@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T15:34:19.338Z'
+datePublished: '2016-09-02T15:49:47.105Z'
 sourcePath: _posts/2016-09-02-triathlon-training-plans.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T15:34:18.878Z'
+dateModified: '2016-09-02T15:37:38.104Z'
 title: Triathlon Training Plans
 publisher: {}
 description: >-
@@ -14,23 +14,24 @@ description: >-
   triathlon distances, including 36 Iron man distance races and 5 Hawaii
   qualifications himself. He has coached athletes to hundreds of full and 70.3IM
   finishes. These have ranged from novice to elite and include many Hawaii world
-  championship qualifications.If you are looking to take the guesswork out of
+  championship qualifications. If you are looking to take the guesswork out of
   your training and follow a structured training programme, but not yet ready to
   take the leap and get a coach then then these are for you. Proven to work by
   hundreds of athletes who have used them, & from only us$29.95 for a 12 week
-  programme to $49.95 for a 30 weeks plan they represent superb value.​Plans are
-  delivered via free athlete account with Training Peaks ​Various plans are
+  programme to $49.95 for a 30 weeks plan they represent superb value. ​ Plans
+  are delivered via free athlete account with Training Peaks  ​Various plans are
   available according to race distance and athlete ability & experience. Click
   on the links for further information and details. Choose your plan and plan
   duration (plans can be set to start or end on any date so can be used more
   than once). Sign up for your Training Peaks account and pay a one off fee for
-  the plan via TrainingPeaks. Download the plan directly into your account and
+  the plan via TrainingPeaks.  Download the plan directly into your account and
   don't forget to also download the plan guide...
 starred: false
 url: triathlon-training-plans/index.html
 _type: Blurb
 
 ---
+## Triathlon Training Plans
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/745fd27d-66e7-4e88-96e0-a078c0c4dd0b.jpg)
 
 ## Triathlon Training Plans
