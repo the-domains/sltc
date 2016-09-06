@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T17:44:57.129Z'
+datePublished: '2016-09-02T17:44:59.660Z'
 sourcePath: _posts/2016-08-30-a-triathlete-since-1989-an-ironman-since-1991-and-a-coach.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T17:44:56.687Z'
+dateModified: '2016-09-02T17:44:59.229Z'
 title: ''
 publisher: {}
 description: >-
@@ -36,7 +36,7 @@ description: >-
   reward and success of coaching is finding and delivering whatever it takes to
   help"Find out more here if you are interested in working with Steve to improve
   your triathlon performance
-starred: true
+starred: false
 url: a-triathlete-since-1989-an-ironman-since-1991-and-a-coach/index.html
 _type: Blurb
 
