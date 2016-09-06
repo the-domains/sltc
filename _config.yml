@@ -1,14 +1,29 @@
-layout_spectrum: 0.13686521002091467
-typography_spectrum: 0.7737835750449449
+typography_spectrum: 0.20307667995803058
 color:
-  brandStrength: 0.1683210653718561
-  lightness: 0.017108185216784477
-  saturation: 0.45132084912620485
-  rhythmicContrast: 0.10966009716503322
+  brandStrength: 0.4180073579773307
+  lightness: 0.5826704767532647
+  saturation: 0.41818424011580646
+  rhythmicContrast: 0.9884802049491554
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+layout_spectrum: 0.6350649136584252
 name: SLTC
+navigation:
+  - name: Welcome
+    id: c691cc7b-7247-4617-b132-b6df80fa0a80
+    type: content
+  - name: About
+    id: 27eeb2c9-e5a0-4a57-8cfc-25685bbda641
+    type: content
+  - name: 'Coaching & support '
+    id: 9255c9a8-bef8-4939-b647-f90683476223
+    type: content
+  - name: Triathlon Training Plans
+    id: 0562dd04-67bf-42c1-b55a-190b0ad5179d
+    type: content
+title: Steve Lumley Triathlon Coaching
+description: 'Helping you to achieve your potential '
