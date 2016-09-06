@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T15:49:47.105Z'
+datePublished: '2016-09-02T16:24:02.462Z'
 sourcePath: _posts/2016-09-02-triathlon-training-plans.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T15:37:38.104Z'
+dateModified: '2016-09-02T16:24:01.605Z'
 title: Triathlon Training Plans
 publisher: {}
 description: >-
@@ -15,11 +15,11 @@ description: >-
   qualifications himself. He has coached athletes to hundreds of full and 70.3IM
   finishes. These have ranged from novice to elite and include many Hawaii world
   championship qualifications. If you are looking to take the guesswork out of
-  your training and follow a structured training programme, but not yet ready to
+  your training and follow a structured training schedule, but not yet ready to
   take the leap and get a coach then then these are for you. Proven to work by
   hundreds of athletes who have used them, & from only us$29.95 for a 12 week
-  programme to $49.95 for a 30 weeks plan they represent superb value. ​ Plans
-  are delivered via free athlete account with Training Peaks  ​Various plans are
+  plan to $49.95 for a 30 weeks plan they represent superb value. ​ Plans are
+  delivered via free athlete account with Training Peaks  ​Various plans are
   available according to race distance and athlete ability & experience. Click
   on the links for further information and details. Choose your plan and plan
   duration (plans can be set to start or end on any date so can be used more
@@ -39,7 +39,7 @@ _type: Blurb
 ## Simple, effective, cheap!
 
 Designed by Steve for age -- group triathletes with limited time available. The plans draw on Steve's 27+ years experience of coaching and racing all triathlon distances, including 36 Iron man distance races and 5 Hawaii qualifications himself. He has coached athletes to hundreds of full and 70.3IM finishes. These have ranged from novice to elite and include many Hawaii world championship qualifications.  
-If you are looking to take the guesswork out of your training and follow a structured training programme, but not yet ready to take the leap and get a coach then then these are for you. Proven to work by hundreds of athletes who have used them, & from only us$29.95 for a 12 week programme to $49.95 for a 30 weeks plan they represent superb value.  
+If you are looking to take the guesswork out of your training and follow a structured training schedule, but not yet ready to take the leap and get a coach then then these are for you. Proven to work by hundreds of athletes who have used them, & from only us$29.95 for a 12 week plan to $49.95 for a 30 weeks plan they represent superb value.  
 ​  
 Plans are delivered via free athlete account with [Training Peaks ][0]  
 [​][0]Various plans are available according to race distance and athlete ability & experience. Click on the links for further information and details. Choose your plan and plan duration (plans can be set to start or end on any date so can be used more than once). Sign up for your Training Peaks account and pay a one off fee for the plan via TrainingPeaks.   
@@ -52,8 +52,6 @@ or email Steve at: t[ricoach.lum@gmail.com][1]
 
 ## ​[IRONMAN(r) Distance Triathlons][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9576a5b3-fa64-464e-bf69-8143f1fe4ecd.jpg)
-
-​
 
 ## [70.3 Distance Triathlons][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3819cac-f3e4-472b-aeaf-3005ccebefcf.jpg)
