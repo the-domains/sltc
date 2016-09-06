@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T16:56:16.831Z'
+datePublished: '2016-09-02T17:00:34.294Z'
 sourcePath: _posts/2016-08-30-individual-coaching-and-support-to-reach-your-goals.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T16:56:16.423Z'
+dateModified: '2016-09-02T17:00:33.712Z'
 title: Coaching & support to reach your goals
 publisher: {}
 description: >-
@@ -42,13 +42,11 @@ _**From £85 per month **_
 If you are interested in online coaching with Steve please complete the athlete questionnaire and send it to Steve with an [email][0] outlining your triathlon goals and ambitions.  
 No set 'levels' of support - just get in touch and we can see how to help you best...  
 While there is no minimum period, you will need to commit to 8 months+ in order to see any appreciable results  
-​
-
-**[Download athlete questionnaire][1]**
+​**[Download athlete questionnaire][1]**
 
 ## Majorca Pre season Training camp  
 ​
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/369ffc329f59817433bf466af5532d22/croprotate.jpg?cropheight=2591&cropwidth=3872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F92b98203-16aa-4432-a2ad-b9dd38a24b8d.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0875b181b38c003a1dab38d9b66d49d8fc7ec25e.jpg)
 
 Steve runs an annual spring training camp in the triathletes training paradise of Majorca, Spain. The 2017 Majorca camp will take place at the end of April.
 
