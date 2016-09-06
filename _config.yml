@@ -13,11 +13,11 @@ color:
 layout_spectrum: 0.6350649136584252
 name: SLTC
 navigation:
-  - name: About
-    id: 27eeb2c9-e5a0-4a57-8cfc-25685bbda641
-    type: content
   - name: Welcome
     id: c691cc7b-7247-4617-b132-b6df80fa0a80
+    type: content
+  - name: About
+    id: 27eeb2c9-e5a0-4a57-8cfc-25685bbda641
     type: content
   - name: 'Coaching & support '
     id: 9255c9a8-bef8-4939-b647-f90683476223
