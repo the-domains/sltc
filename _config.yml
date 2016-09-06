@@ -1,4 +1,5 @@
-typography_spectrum: 0.05620290827937424
+layout_spectrum: 0.4592910173814744
+typography_spectrum: 0.11147180572152138
 color:
   brandStrength: 0.20568216149695218
   lightness: 0.43605639855377376
@@ -10,7 +11,6 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
-layout_spectrum: 0.3439360598567873
 name: SLTC
 navigation:
   - name: Welcome
