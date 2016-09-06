@@ -12,7 +12,7 @@ color:
     - '#6A6A61'
 layout_spectrum: 0.4592910173814744
 logo: null
-name: Steve Lumley Triathlon Coaching
+name: SLTC
 navigation:
   - name: Welcome
     id: c691cc7b-7247-4617-b132-b6df80fa0a80
@@ -28,5 +28,5 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0442695-cfaf-4f39-b042-eb6fc59a9ef5.ico
-title: SLTC
+title: Steve Lumley Triathlon Coaching
 description: 'Helping you to achieve your potential '
