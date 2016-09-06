@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-02T16:24:02.462Z'
+datePublished: '2016-09-02T16:29:23.609Z'
 sourcePath: _posts/2016-09-02-triathlon-training-plans.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T16:24:01.605Z'
+dateModified: '2016-09-02T16:29:23.005Z'
 title: Triathlon Training Plans
 publisher: {}
 description: >-
@@ -45,10 +45,9 @@ Plans are delivered via free athlete account with [Training Peaks ][0]
 [​][0]Various plans are available according to race distance and athlete ability & experience. Click on the links for further information and details. Choose your plan and plan duration (plans can be set to start or end on any date so can be used more than once). Sign up for your Training Peaks account and pay a one off fee for the plan via TrainingPeaks.   
 Download the plan directly into your account and don't forget to also download the plan guide...
 
-As an added bonus, purchase of these plans includes email access to Steve for any questions that you may have about the plan or your training. Please contact us here:  
-or email Steve at: t[ricoach.lum@gmail.com][1]
+As an added bonus, purchase of these plans includes email access to Steve for any questions that you may have about the plan or your training. Please contact us here:
 
-**[Contact Steve][2]**
+**[Contact Steve][1]** or email Steve at: t[ricoach.lum@gmail.com][2]
 
 ## ​[IRONMAN(r) Distance Triathlons][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9576a5b3-fa64-464e-bf69-8143f1fe4ecd.jpg)
@@ -84,8 +83,8 @@ _**"I bought one of your training plans a short while ago and I've been really e
 _"I just finished using your "Olympic Distance Triathlon: 'Competitors '30 week plan" and had great results - qualifying for Team USA 2015\. I would love to use your training plans throughout my off season." (Aryn Maclaren)_
 
 [0]: http://home.trainingpeaks.com/
-[1]: mailto:tricoach.lum@gmail.com
-[2]: http://www.stevelumleytriathlon.com/contact.html
+[1]: http://www.stevelumleytriathlon.com/contact.html
+[2]: mailto:tricoach.lum@gmail.com
 [3]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%20Ironman%20%20plans
 [4]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%2070.3%20plans
 [5]: https://home.trainingpeaks.com/products/trainingplans/lookupname.aspx?lookup=Steve%20Lumley%20Olympic%20Distance%20plans
